@@ -1,1 +1,2 @@
 hello world am trying to figure out this git thing and its annoying
+today is day 2 , lets see if we remember how this works
